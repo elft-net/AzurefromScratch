@@ -1,5 +1,5 @@
 # Getting hooked
-- First entry within github which micely integrates with Azure.
+- First entry within github which nicely integrates with Azure.
 - Using git clone, add and commit to transfer files from the developer workstation
 - Need to look into az-cli in order to take the next step
 ```
