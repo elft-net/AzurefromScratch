@@ -1,0 +1,13 @@
+logging:
+    type: syslog
+file_cache:
+    path: /mnt/ramdisk/blobfusetmp
+azstorage:
+    endpoint: https://scratchvault.blob.core.windows.net
+    update-md5: false
+    validate-md5: false
+    virtual-directory: true
+components:
+    - libfuse
+    - file_cache
+    - azstorage

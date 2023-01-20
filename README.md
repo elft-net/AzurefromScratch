@@ -1,2 +1,2 @@
 # AzurefromScratch
-Getting Acquainted with Azure 
+Getting on speaking terms with Azure 

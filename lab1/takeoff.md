@@ -168,7 +168,7 @@ The installed extension 'interactive' is in preview.
 
 Do you agree to sending telemetry (yes/no)? Default answer is yes: no
 
-az>> az group create --name AzurefromScratch --location westeurope
+az>> az group create --name [AzurefromScratch](AzurefromScratch) --location westeurope
 az>> az vm create --resource-group AzurefromScratch --name pm-azurevm-1 --image UbuntuLTS --output json --verbose
 
 Starting Build 2023 event, "az vm/vmss create" command will deploy Trusted Launch VM by default. To know more about Trusted Launch, please visit https://docs.microsoft.com/en-us/azure/virtual-machines/trusted-launch
