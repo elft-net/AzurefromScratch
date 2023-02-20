@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "qJfuwND+AkE08QvQOT4JOl4j4j7x6gmOgiiyzsw0qRU=",
+  "Source": "polly",
+  "BasePath": "_content/polly",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "polly/wwwroot",
+      "Source": "polly",
+      "ContentRoot": "/home/mos/Repo/src/elft-net/AzurefromScratch/lab4/polly/wwwroot/",
+      "BasePath": "_content/polly",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/mos/Repo/src/elft-net/AzurefromScratch/lab4/polly/wwwroot/default.html",
+      "SourceId": "polly",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mos/Repo/src/elft-net/AzurefromScratch/lab4/polly/wwwroot/",
+      "BasePath": "_content/polly",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/default.html"
+    }
+  ]
+}
